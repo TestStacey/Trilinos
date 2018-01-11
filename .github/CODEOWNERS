@@ -27,7 +27,7 @@
 /packages/nox/               @trilinos/nox
 /packages/optipack/          @trilinos/optipack
 /packages/pamgen/            @trilinos/pamgen
-/packages/panzer/            @trilinos/panzer
+/packages/panzer/            @teststacey/codeowners
 /packages/phalanx/           @trilinos/phalanx
 #/packages/pike/              @trilinos/
 /packages/piro/              @trilinos/piro
